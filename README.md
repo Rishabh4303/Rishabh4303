@@ -1,7 +1,5 @@
 # Hi, I'm Rishabh Mohan 👋
 
-### Data Analyst | Power BI | SQL | Excel | Python
-
 I’m a data and business intelligence professional focused on transforming raw data into **actionable, data-backed business insights**.
 
 Currently working as an **MIS Executive – BI & Reporting**, where I work with reporting, dashboards, data analysis, and business intelligence solutions.
